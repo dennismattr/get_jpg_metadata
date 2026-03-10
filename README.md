@@ -8,5 +8,5 @@ The following steps to run the script in terminal:
 Please note the directory arg must be relative path.
 
 TODO:
-A. Update to accept absolute directory.
-B. Change return from None to whatever is appropriate.
+1. Update to accept absolute directory.
+2. Change return from None to whatever is appropriate.
